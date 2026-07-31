@@ -1,8 +1,24 @@
 aid: muir-test-systems
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/muir-test-systems.png
 name: Muir Test Systems
-description: Muir Test Systems is a company surfaced as a portfolio company of battery-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Muir Test Systems is a company in the Battery Ventures portfolio, operating in the
+  test-and-measurement space. It was added to the API Evangelist network as a stub for enrichment.
+  An enrichment pass on 2026-07-20 searched the web, npm/PyPI/Maven/other package registries, and
+  probed for a developer/API surface and found no publicly discoverable developer portal, API
+  documentation, OpenAPI/AsyncAPI specification, SDKs, or hosted MCP server. No production website
+  domain for the company resolved during probing, so domain, well-known, and security probes could
+  not be run. This profile remains a company-only lead with no API artifacts.
 url: https://raw.githubusercontent.com/api-evangelist/muir-test-systems/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +28,19 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Test and Measurement
+- Testing
+- Hardware
+- Battery Ventures Portfolio
 apis: []
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
