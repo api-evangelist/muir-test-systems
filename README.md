@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Muir Test Systems is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Muir Test Systems is a company in the Battery Ventures portfolio, operating in the test-and-measurement space. It was added to the API Evangelist network as a stub for enrichment. An enrichment pass on 2026-07-20 searched the web, npm/PyPI/Maven/other package registries, and probed for a developer/API surface and found no publicly discoverable developer portal, API documentation, OpenAPI/AsyncAPI specification, SDKs, or hosted MCP server. No production website domain for the company resolved during probing, so domain, well-known, and security probes could not be run. This profile remains a company-only lead with no API artifacts.
 
-Backed by: battery-ventures
+**Areas:** Company · Test and Measurement · Testing · Hardware · Battery Ventures Portfolio
+
+## Muir Test Systems on APIs.io
+
+Everything profiled for Muir Test Systems is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/muir-test-systems/](https://apis.io/providers/muir-test-systems/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Muir Test Systems: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/muir-test-systems/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
